@@ -1,0 +1,2753 @@
+{
+    "albums": {
+      "totalCount": 627,
+      "items": [
+        {
+          "data": {
+            "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo",
+            "name": "The Eminem Show",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2002
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:album:1kTlYbs28MXw7hwO0NLYif",
+            "name": "Encore (Deluxe Version)",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02726d48d93d02e1271774f023",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851726d48d93d02e1271774f023",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273726d48d93d02e1271774f023",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2004
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:album:6t7956yu5zYf5A829XRiHC",
+            "name": "The Marshall Mathers LP",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851dbb3dd82da45b7d7f31b1b42",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2000
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:album:47BiFcV59TQi2s9SkBo2pb",
+            "name": "Recovery",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02c08d5fa5c0f1a834acef5100",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851c08d5fa5c0f1a834acef5100",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2010
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:album:0vE6mttRTBXRe9rKghyr1l",
+            "name": "The Slim Shady LP",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e029bef45ee387f274ea3198c55",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048519bef45ee387f274ea3198c55",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2739bef45ee387f274ea3198c55",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1999
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:album:5qENHeCSlwWpEzb25peRmQ",
+            "name": "Curtain Call: The Hits (Deluxe Edition)",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02eab40fc794b88b9d1e012578",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851eab40fc794b88b9d1e012578",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2005
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:album:3HNnxK7NgLXbDoxRZxNWiR",
+            "name": "Kamikaze",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02e4073def0c03a91e3fceaf73",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851e4073def0c03a91e3fceaf73",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2018
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:album:4otkd9As6YaxxEkIjXPiZ6",
+            "name": "Music To Be Murdered By",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e022f44aec83b20e40f3baef73c",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048512f44aec83b20e40f3baef73c",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2020
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:album:7MZzYkbHL9Tk3O6WeD4Z0Z",
+            "name": "Relapse: Refill",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e02506c4cc93e5a6234164125e1",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00004851506c4cc93e5a6234164125e1",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2009
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:album:3aTuW4BtsyyyyQa9LKqj8n",
+            "name": "Curtain Call 2",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e0275a2c90eca545e6b0557897c",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000485175a2c90eca545e6b0557897c",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b27375a2c90eca545e6b0557897c",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2022
+            }
+          }
+        }
+      ]
+    },
+    "artists": {
+      "totalCount": 88,
+      "items": [
+        {
+          "data": {
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+            "profile": {
+              "name": "Eminem"
+            },
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000f178a00b11c129b27a88fc72f36b",
+                    "width": 160,
+                    "height": 160
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
+                    "width": 320,
+                    "height": 320
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:artist:32ox589cezBqlH1aCFSfJ3",
+            "profile": {
+              "name": "Rap God Slim Shady Eminem"
+            },
+            "visuals": {
+              "avatarImage": null
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:artist:5Qi4Bb7a8C0a00NZcA77L0",
+            "profile": {
+              "name": "D12"
+            },
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb4f52827861ae9b860a5e62f6",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000f1784f52827861ae9b860a5e62f6",
+                    "width": 160,
+                    "height": 160
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab676161000051744f52827861ae9b860a5e62f6",
+                    "width": 320,
+                    "height": 320
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:artist:16SfgOBulDFXWORWr5d3qq",
+            "profile": {
+              "name": "Emine'm"
+            },
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737999b090c18df4d3b2e206db",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048517999b090c18df4d3b2e206db",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e027999b090c18df4d3b2e206db",
+                    "width": 300,
+                    "height": 300
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:artist:2XnnxQzxFZG8qEPjakokPM",
+            "profile": {
+              "name": "Obie Trice"
+            },
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/d6ebc26b7f361aa6de3a8992b49bf4a2536af3fc",
+                    "width": 640,
+                    "height": 509
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/89d41a378f7bd5b0806a8c0b4ba0545ebbaf1ee2",
+                    "width": 64,
+                    "height": 51
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/08a2905bb68fb37de8d3bb426249a65732700696",
+                    "width": 200,
+                    "height": 159
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/13998fd88695a34cec8350675cb3ceffa4573ae3",
+                    "width": 1000,
+                    "height": 796
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:artist:715lDaC4Ha9GISfWmHTZWH",
+            "profile": {
+              "name": "Eminemn"
+            },
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27351ba62b8c80ebefc438ae11e",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485151ba62b8c80ebefc438ae11e",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0251ba62b8c80ebefc438ae11e",
+                    "width": 300,
+                    "height": 300
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:artist:7vMDKdgSZ2Scn4uzFdTDyZ",
+            "profile": {
+              "name": "Emie"
+            },
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb040394ace7e42467a36b73e3",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000f178040394ace7e42467a36b73e3",
+                    "width": 160,
+                    "height": 160
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616100005174040394ace7e42467a36b73e3",
+                    "width": 320,
+                    "height": 320
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:artist:6Dxd9WP0s3TRM2Htt28UQi",
+            "profile": {
+              "name": "La EmineMCa"
+            },
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000e5eba6d6a2bb6ede885063e59cc5",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000f178a6d6a2bb6ede885063e59cc5",
+                    "width": 160,
+                    "height": 160
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616100005174a6d6a2bb6ede885063e59cc5",
+                    "width": 320,
+                    "height": 320
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:artist:0sKY9AcBdiGx4FbFbQsXoX",
+            "profile": {
+              "name": "EMIN"
+            },
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebb6348ee7ea0ead1e716110f4",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000f178b6348ee7ea0ead1e716110f4",
+                    "width": 160,
+                    "height": 160
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616100005174b6348ee7ea0ead1e716110f4",
+                    "width": 320,
+                    "height": 320
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:artist:4rOaJSGwiRVOuAQ2utQmLE",
+            "profile": {
+              "name": "Eminemmylou"
+            },
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d220abf53e2d090b5bd9bb3f",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851d220abf53e2d090b5bd9bb3f",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d220abf53e2d090b5bd9bb3f",
+                    "width": 300,
+                    "height": 300
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    "episodes": {
+      "totalCount": 1000,
+      "items": [
+        {
+          "data": {
+            "uri": "spotify:episode:7elezAUVhdEVkyOgfvOQS3",
+            "name": "8/29/23: Trump Trial Date On Super Tuesday, Dems Overwhelmingly Think Biden Too Old, Warren Buffet Bets Against Economy, Krystal Calls Out Bernie and Cornel West, Eminem Cease and Desists Vivek, Europe Freaks At Potential Trump 2.0, 4 Day Work Week",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68dd4da856ca6e7add43df351a4",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1fd4da856ca6e7add43df351a4",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8ad4da856ca6e7add43df351a4",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "duration": {
+              "totalMilliseconds": 5462047
+            },
+            "releaseDate": {
+              "isoString": "2023-08-29T16:00:00Z"
+            },
+            "podcast": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000f68dd4da856ca6e7add43df351a4",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67656300005f1fd4da856ca6e7add43df351a4",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000ba8ad4da856ca6e7add43df351a4",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              }
+            },
+            "description": "Krystal and Saagar discuss Trump's long list of trial dates being set with one being right before Super Tuesday, Democrats overwhelmingly say Biden is too Old to run, Kamala cries about Newsom-Desantis Debate stealing her spotlight, Warren Buffet predicts Recession and makes bets against US economy, Krystal calls out Bernie Sanders and Cornel West in 3rd Party dispute, Eminem sends a cease and desist to the Vivek Campaign, Sean Hannity grills Vivek on Israel policy, Saagar looks into Europe freaking over a potential Trump victory, and Krystal looks into AutoWorkers demanding 4 Day Work Weeks. To become a Breaking Points Premium Member and watch/listen to the show uncut and 1 hour early visit: https://breakingpoints.supercast.com/  Merch Store: https://shop.breakingpoints.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+            "contentRating": {
+              "label": "NONE"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:episode:24gtBGN8bAHz9uBj4ff8q2",
+            "name": "The Eminem Episode",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68dc596fd7938074db25619e2f1",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1fc596fd7938074db25619e2f1",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8ac596fd7938074db25619e2f1",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "duration": {
+              "totalMilliseconds": 3704105
+            },
+            "releaseDate": {
+              "isoString": "2023-04-07T10:00:00Z"
+            },
+            "podcast": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000f68dc596fd7938074db25619e2f1",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67656300005f1fc596fd7938074db25619e2f1",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000ba8ac596fd7938074db25619e2f1",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              }
+            },
+            "description": "In this episode Kxng Crooked had the opportunity to sit down with one of the G.O.A.T. Marshall Mathers profesionally known as Eminem. Enjoy and remember to subscribe and leave a comment.",
+            "contentRating": {
+              "label": "NONE"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:episode:6g0BK71q6Eb8kGdgGZmsrj",
+            "name": "Akon & Logan Paul Debate Christianity, Share Michael Jackson’s Secret, Eminem Co-Hosting IMPAULSIVE",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d488fb29b868a43367803f60d",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f488fb29b868a43367803f60d",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a488fb29b868a43367803f60d",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "duration": {
+              "totalMilliseconds": 6252617
+            },
+            "releaseDate": {
+              "isoString": "2023-09-05T19:09:00Z"
+            },
+            "podcast": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000f68d488fb29b868a43367803f60d",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67656300005f1f488fb29b868a43367803f60d",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a488fb29b868a43367803f60d",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              }
+            },
+            "description": "Musical genius & philanthropist, Akon joins the boys to discuss *exclusive* Michael Jackson & Eminem stories, rebuilding Africa (Akon City), drug dealing & jail time, scolding Logan Paul for buying a jet, hit songs ‘I Just Had Sex’ & ‘Smack That’, why god exists, new album ‘Akonic’, making Lady Gaga famous, why rappers go broke, becoming an African Prince & more…   Wear Maverick Clothing ► https://maverickclothing.com SUBSCRIBE TO THE PODCAST ► https://www.youtube.com/impaulsive   Use code LOGAN for $20 off your first SeatGeek order. https://seatgeek.onelink.me/RrnK/LOGAN   Interested in less work, more play? Check us out at Morplay Academy: https://morplayacademy.com/ | @morplayacademy   Watch Previous (Erling Haaland Predicts KSI Loss, Winning Premier League, Dillon Danis vs Logan Paul) ► https://www.youtube.com/watch?v=WABSoIK2i48&t=1472s   ADD US ON: INSTAGRAM: https://www.instagram.com/impaulsiveshow/   Timestamps: 0:00 Welcome Akon! 💥 9:03 NEW Album *Exclusive* & Fav Record? 🎤 21:50 Making Lady Gaga Famous! (Just Dance) 💃🏼 25:00 Why Rappers Go BROKE! 💰 32:37 ‘Akon City’ & Rebuilding Africa! 🌍 41:53 Logan & Akon Argue Over A.I.! 🤖 50:37 Why God IS REAL ✝️ 1:03:12 *Hack* to Accomplish Goals! 📝 1:06:03 Jail-time & Stupid Hustles! 🤦‍♂️ 1:18:16 Becoming an African Prince! 🇿🇦 1:22:05 Eminem as IMPAULSIVE Co-Host?! 😱 1:23:50 Unreleased Eminem Songs *Exclusive* 🤯 1:29:25 UNBELIEVABLE Michael Jackson Story! 😯 1:34:20 Michael Jackson Fake News 🤬   ***PLEASE NOTE*** Impaulsive is a significant break from the typical content viewers have come to expect from the vlog channel & we could not be more proud and excited to watch this unfold and grow. Please be advised that we will be exploring a wide variety of topics (some adult-themed) and our younger viewers (and their parents) should be advised that some topics will be for mature audiences only. ⚠ WELLNESS DISCLAIMER ⚠ Please be advised; the discussion topics and contents of Impaulsive and this episode in particular, are for informational, discussion, and entertainment purposes only. The content is not intended to be a substitute for professional advice, diagnosis, or treatment. Always seek the advice of your mental health professional or other qualified health provider with any questions you may have regarding your current condition. Never disregard professional advice or delay in seeking it because of something you have heard on an episode of Impaulsive, on social media, or shared within content you’ve consumed. If you are in crisis or you think you may have an emergency, call your doctor or 911 immediately. People often don’t get the mental health services they need because they don’t know where to start. Well, consider this as a starting point: Talk to your primary care doctor or another health professional about mental health problems. Ask them to connect you with the right mental health services. If you do not have a health professional who is able to assist you, use these resources to find help for yourself, your friends, your family, or someone in distress.",
+            "contentRating": {
+              "label": "EXPLICIT"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:episode:34YPnbVhUjmkPDCsOTlNwM",
+            "name": "Marshall “Eminem” Mathers",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68def8045cde2d310777432163e",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1fef8045cde2d310777432163e",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8aef8045cde2d310777432163e",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "duration": {
+              "totalMilliseconds": 3506520
+            },
+            "releaseDate": {
+              "isoString": "2022-09-28T08:00:00Z"
+            },
+            "podcast": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000f68d935154078a956faf76ca0f78",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67656300005f1f935154078a956faf76ca0f78",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a935154078a956faf76ca0f78",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              }
+            },
+            "description": "Will the real Celebrity Book Club please stand up? Fill a bowl of Mom’s spaghetti and drag your white ass across 8 mile, we’re dropping perc with the Real Slim Shady and his beautifully photographed coffee table memoir “The Way I Am.” From peroxide blonde to Triumph the Insult Comic Dog, Moby being annoying, appropriation, murder, does Limp Bizkit want to be black?, gay alter egos, Em’s DeviantArt, South African AIDS activists and his daughter’s basic podcast—this is your one shot. Your one opportunity. You better lose yourself!    Tix to Chicago on 10/7: https://www.etix.com/ticket/p/5959158/celebrity-book-club-chicago-sleeping-village   Tix to London on 10/18: https://dice.fm/event/8n6g7-celebrity-book-club-with-steven-lily-18th-oct-the-bill-murray-london-tickets?lng=en-US   Plus! In the VIP Lounge on Friday, we spill the tea on our trip to Vegas—including T-Pain, Martha Stewart’s restaurant and a naughty magic show. Subscribe to the VIP Lounge here: http://patreon.com/cbcthepod   Follow us for more fun! Instagram: @cbcthepod Twitter: @cbcthepodSee omnystudio.com/listener for privacy information.",
+            "contentRating": {
+              "label": "EXPLICIT"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:episode:0Y1yrZL5aQRGU2e7OCHTE6",
+            "name": "Eminem... Why Are You Gay?",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d4fb10ea088bfc927942acc34",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f4fb10ea088bfc927942acc34",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a4fb10ea088bfc927942acc34",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "duration": {
+              "totalMilliseconds": 1670086
+            },
+            "releaseDate": {
+              "isoString": "2023-08-29T20:00:00Z"
+            },
+            "podcast": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4fb10ea088bfc927942acc34",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4fb10ea088bfc927942acc34",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4fb10ea088bfc927942acc34",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              }
+            },
+            "description": "Eminem has hit Vivek Ramaswamy with a cease and desist letter for rapping his song on the campaign trail and this really only begs one question... Eminem, why are you gay? Plus, the teacher who went viral for wearing ridiculous prosthetic breasts in class is now teaching at a new school and so I basically have no idea what is going on in Canada anymore. And, Hugh Hefner's third wife, Crystal Hefner, is playing the victim in a new memoir about her time at the mansion, but I'm not really buying it. Ep.213 - - - Click here to join the member exclusive portion of my show: https://bit.ly/3DzN2Uj Grab some “Yes We CANdace” merch here: https://bit.ly/3Amm13Y - - -  Today’s Sponsors: ExpressVPN - Get 3 Months FREE of ExpressVPN: https://www.expressvpn.com/candace PureTalk - Exclusive discount for my listeners! https://www.puretalkusa.com/landing/Owens   Balance of Nature - Start your journey to better health! For a limited time, get 40% off your first order as a preferred customer. Use promo code CANDACE at checkout: https://www.balanceofnature.com/ - - - Socials: Follow on Twitter: https://bit.ly/3RNly1c Follow on Instagram: https://bit.ly/3U5DF4a Follow on Facebook: https://bit.ly/3Ug6Thd Subscribe on YouTube: https://bit.ly/3d9dZ6k",
+            "contentRating": {
+              "label": "NONE"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:episode:2mDwFc3vube6ybM0MIeDs5",
+            "name": "Eminem vs MGK",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ec8065e3458337389b2ec25d37c825dfbe0d51b7",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/cedfcb546e19878fe4e234ef07e1a24208455787",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/b0f4493113134553ff3bc40c0d1be316281b0223",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "duration": {
+              "totalMilliseconds": 1025021
+            },
+            "releaseDate": {
+              "isoString": "2018-09-06T11:41:00Z"
+            },
+            "podcast": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000f68d74ac4a1ba0c5ccddc0aaae34",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67656300005f1f74ac4a1ba0c5ccddc0aaae34",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a74ac4a1ba0c5ccddc0aaae34",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              }
+            },
+            "description": "Speaking on the beef between Eminem and Machine Gun Kelly and Why This is good for Hip Hop  ---   Send in a voice message: https://podcasters.spotify.com/pod/show/FeelinTheBreeeze/message",
+            "contentRating": {
+              "label": "NONE"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:episode:5Qx5jecKgXZ8xGaYfIu9FL",
+            "name": "Eminem-Nail in the coffin",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/b38baca8c967f35a19a1004302bbe05c0db54c74",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/5efb7597a1f1129357344aff1b3d3260ff10f7af",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/2280d1dd605371229c761f2ac044dc0d0608704f",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "duration": {
+              "totalMilliseconds": 290133
+            },
+            "releaseDate": {
+              "isoString": "2020-11-16T15:45:00Z"
+            },
+            "podcast": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/246a12159eac83508d919fdadb3d4fdc0565666a",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/064670271d8ed648051931c96b8cb1fdcb387416",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/f416facde0b57884a8e1eda36a6d14ee0bcd7757",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              }
+            },
+            "description": "Eminem-Nail in the coffin",
+            "contentRating": {
+              "label": "NONE"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:episode:7CxL3FotxlQ1Avie0poqhi",
+            "name": "S2-E2 - Realest Review",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d2c6fbca57fcd3d4f620f7288",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f2c6fbca57fcd3d4f620f7288",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a2c6fbca57fcd3d4f620f7288",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "duration": {
+              "totalMilliseconds": 2748290
+            },
+            "releaseDate": {
+              "isoString": "2023-08-16T21:15:00Z"
+            },
+            "podcast": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000f68d953eae845f74469ec62e9697",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67656300005f1f953eae845f74469ec62e9697",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a953eae845f74469ec62e9697",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              }
+            },
+            "description": "Danny, Blake & Ross discuss the ring walk out with Terence Crawford, the new track Realest with Ez Mil & Eminem as well as Travis Scott’s new album Utopia.",
+            "contentRating": {
+              "label": "NONE"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:episode:16lDjDvZ4tIvPXV2oZh6rj",
+            "name": "Eminem Goes After Trump!",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/fb290c9a38c6acde787ded012d1fad1eb82abb37",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/296188398325b7c0cdcaa2d34404f64ce2910bf9",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/b5fb7f940500644af7d67224a306745e762e57f5",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "duration": {
+              "totalMilliseconds": 801598
+            },
+            "releaseDate": {
+              "isoString": "2023-09-02T15:05:00Z"
+            },
+            "podcast": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/fb290c9a38c6acde787ded012d1fad1eb82abb37",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/296188398325b7c0cdcaa2d34404f64ce2910bf9",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/b5fb7f940500644af7d67224a306745e762e57f5",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              }
+            },
+            "description": "Eminem Goes After Trump!  ---   Support this podcast: https://podcasters.spotify.com/pod/show/hodgetwins/support",
+            "contentRating": {
+              "label": "NONE"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:episode:70PSnFiOIcertfqcwLLXhQ",
+            "name": "EMINEM - The Marshall Mathers LP",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d926c0334b38f323ed246815e",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f926c0334b38f323ed246815e",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a926c0334b38f323ed246815e",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "duration": {
+              "totalMilliseconds": 4936728
+            },
+            "releaseDate": {
+              "isoString": "2019-06-27T05:29:00Z"
+            },
+            "podcast": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000f68d926c0334b38f323ed246815e",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67656300005f1f926c0334b38f323ed246815e",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a926c0334b38f323ed246815e",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              }
+            },
+            "description": "Can you put a Parental Advisory sticker on a podcast? This week, Dan and Bob dive into THE BEST SELLING ALBUM of the 21st century! So if you're a fan of huge hit singles, casual misogyny, and rampant homophobia, this is the episode for you. Wait... that came out wrong. Anyway, thanks to all of our Patreonies who voted in our monthly listener poll. Now it's time to stan Eminem.",
+            "contentRating": {
+              "label": "EXPLICIT"
+            }
+          }
+        }
+      ]
+    },
+    "genres": {
+      "totalCount": 0,
+      "items": []
+    },
+    "playlists": {
+      "totalCount": 58,
+      "items": [
+        {
+          "data": {
+            "uri": "spotify:playlist:40rn5vBkgpK9WsUz1Cp4QP",
+            "name": "eminem",
+            "description": "",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://mosaic.scdn.co/640/ab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e02cb66bcc14c6f857c127d5969ab67616d00001e02dbb3dd82da45b7d7f31b1b42ab67616d00001e02eab40fc794b88b9d1e012578",
+                      "width": 640,
+                      "height": 640
+                    },
+                    {
+                      "url": "https://mosaic.scdn.co/300/ab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e02cb66bcc14c6f857c127d5969ab67616d00001e02dbb3dd82da45b7d7f31b1b42ab67616d00001e02eab40fc794b88b9d1e012578",
+                      "width": 300,
+                      "height": 300
+                    },
+                    {
+                      "url": "https://mosaic.scdn.co/60/ab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e02cb66bcc14c6f857c127d5969ab67616d00001e02dbb3dd82da45b7d7f31b1b42ab67616d00001e02eab40fc794b88b9d1e012578",
+                      "width": 60,
+                      "height": 60
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Faith x"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:3xqcAMgjHGrv3ElA51zZRj",
+            "name": "Eminem: Best Of The Best",
+            "description": "The biggest and best tracks from Eminem including River with Ed Sheeran, Without Me, Lose Yourself, Stan, Love The Way You Lie feat. <a href=\"https://open.spotify.com/user/best-of-the-best/playlist/1zI5mQ3BgVx2HS4UuyJMMH?si=yWdG55qFRrOCwYOiLyEhsw\">Rihanna</a>, My Name Is and so much more. Check out The <a>Best Of The Best</a> profile for more great playlists!",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://i.scdn.co/image/ab67706c0000da849ee7a095aa96164af96048ab",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Best Of The Best"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DZ06evO4gTUOY",
+            "name": "This Is Eminem",
+            "description": "This is Eminem. The essential tracks, all in one playlist.",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Spotify"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1EIZMGq5iNDWIK",
+            "name": "Eminem Mix",
+            "description": "<a href=spotify:playlist:37i9dQZF1EIZvuZoKWVfZf>50 Cent</a>, <a href=spotify:playlist:37i9dQZF1EIYMrMK4MchS2>D12</a> and <a href=spotify:playlist:37i9dQZF1EIUVhDkMc6n10>Kanye West</a>",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://seed-mix-image.spotifycdn.com/v6/img/artist/7dGJo4pcD2V6oG8kP0tJRR/en/default",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Spotify"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DZ06evO0cPksJ",
+            "name": "This Is EMIN",
+            "description": "This is EMIN. The essential tracks, all in one playlist.",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0cPksJ-default.jpg",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Spotify"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1E4uduXaJcMi49",
+            "name": "Eminem Radio",
+            "description": "",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://seeded-session-images.scdn.co/v1/img/artist/7dGJo4pcD2V6oG8kP0tJRR/en",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Spotify"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:53qxK8nk4IxRcuIFv8d4SQ",
+            "name": "Eminem old hits",
+            "description": "",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://i.scdn.co/image/ab67706c0000da845628a568156e065e0b6f7645",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Gainzzz"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DZ06evO2sW5E7",
+            "name": "This Is Emon Khan",
+            "description": "This is Emon Khan. The essential tracks, all in one playlist.",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2sW5E7-default.jpg",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Spotify"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DZ06evO1W7Fl0",
+            "name": "This Is Emon Khan",
+            "description": "This is Emon Khan. The essential tracks, all in one playlist.",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1W7Fl0-default.jpg",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Spotify"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:2rL7J8CJrdksF944XqcYjr",
+            "name": "EMINEM BEST OF",
+            "description": "",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://i.scdn.co/image/ab67706c0000da8454b133282efaec2a07cc05fc",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Eminem"
+            }
+          }
+        }
+      ]
+    },
+    "podcasts": {
+      "totalCount": 167,
+      "items": [
+        {
+          "data": {
+            "uri": "spotify:show:33uYGIyF58gEEIwT2uiDtA",
+            "name": "Stan by Eminem",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d6bea2c4bc1e44ee996d660c7",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f6bea2c4bc1e44ee996d660c7",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a6bea2c4bc1e44ee996d660c7",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "Trey Henson"
+            },
+            "mediaType": "AUDIO"
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:show:4jf4crpwOX1UPGLcGun2mT",
+            "name": "Eminem",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d891f71ced41ab4addab724c5",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f891f71ced41ab4addab724c5",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a891f71ced41ab4addab724c5",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "Eminem"
+            },
+            "mediaType": "AUDIO"
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:show:572shiBdIhj9kTTUHxkVus",
+            "name": "Emin Yılmaz",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d9e1b184efec6b7cbe6380361",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f9e1b184efec6b7cbe6380361",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a9e1b184efec6b7cbe6380361",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "Emin Yılmaz"
+            },
+            "mediaType": "AUDIO"
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:show:1IMtMSsJW1i7lXGP16YbmF",
+            "name": "The Mainly Eminem Podcast",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d953eae845f74469ec62e9697",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f953eae845f74469ec62e9697",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a953eae845f74469ec62e9697",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "Mainly Eminem"
+            },
+            "mediaType": "AUDIO"
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:show:79X6cvxAAH6wbwd04KCq2j",
+            "name": "Eminem",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68dac3e8f8b40d128613f9b43e6",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1fac3e8f8b40d128613f9b43e6",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8aac3e8f8b40d128613f9b43e6",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "Estefania Roldán Luque"
+            },
+            "mediaType": "AUDIO"
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:show:2nVTR7vEQ9D0bweyKDpY7E",
+            "name": "emin değilim her şey muamma ",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68de91852fe26f0a5f33c534c69",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1fe91852fe26f0a5f33c534c69",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8ae91852fe26f0a5f33c534c69",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "Mert"
+            },
+            "mediaType": "AUDIO"
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:show:6PHHSM0ceecaLxXxeL1Of7",
+            "name": "Eminem",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68dd0c1e8e5e448f12a8d4f88b4",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1fd0c1e8e5e448f12a8d4f88b4",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8ad0c1e8e5e448f12a8d4f88b4",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "Eminem"
+            },
+            "mediaType": "AUDIO"
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:show:76kEGJGexYYbwe4AICvBom",
+            "name": "Eminem ",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d61bec7540dd69d5c2e86e393",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f61bec7540dd69d5c2e86e393",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a61bec7540dd69d5c2e86e393",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "Stacc Slab"
+            },
+            "mediaType": "AUDIO"
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:show:7t0OrP5MPnHeGpYyUJ4hBr",
+            "name": "Emin Çapa'nın kütüphanesinden",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/f609dc2cf08713dddfa2ec16b3266dc2b8f58517",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/7f1f0d8e052eba7cf95ac74fa10519766ffdcafa",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/e9d12efee5ac298ddc78b48c26eee18d4e50dd3a",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "Emin Çapa'nın kütüphanesinden"
+            },
+            "mediaType": "AUDIO"
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:show:4bujq0be2L1onSC7mZr1Uk",
+            "name": "The Eminem Podcast",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/22624af50b2daf5e38f92e224c81d824513d0de0",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/20a8a18e39f31666a733a65674c5261e1cc605fc",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/f007a4f0bef8fe8088f55ce380ff4163358083ec",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "The Eminem Podcast"
+            },
+            "mediaType": "AUDIO"
+          }
+        }
+      ]
+    },
+    "topResults": {
+      "items": [
+        {
+          "data": {
+            "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+            "profile": {
+              "name": "Eminem"
+            },
+            "visuals": {
+              "avatarImage": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
+                    "width": 640,
+                    "height": 640
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab6761610000f178a00b11c129b27a88fc72f36b",
+                    "width": 160,
+                    "height": 160
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
+                    "width": 320,
+                    "height": 320
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
+            "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+            "name": "Without Me",
+            "albumOfTrack": {
+              "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo",
+              "name": "The Eminem Show",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2cWBwpqMsDJC1ZUwz813lo",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo?si=Bx0F-FuQTJasIfI-rlaKuA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 290320
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:40rn5vBkgpK9WsUz1Cp4QP",
+            "name": "eminem",
+            "description": "",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://mosaic.scdn.co/640/ab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e02cb66bcc14c6f857c127d5969ab67616d00001e02dbb3dd82da45b7d7f31b1b42ab67616d00001e02eab40fc794b88b9d1e012578",
+                      "width": 640,
+                      "height": 640
+                    },
+                    {
+                      "url": "https://mosaic.scdn.co/300/ab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e02cb66bcc14c6f857c127d5969ab67616d00001e02dbb3dd82da45b7d7f31b1b42ab67616d00001e02eab40fc794b88b9d1e012578",
+                      "width": 300,
+                      "height": 300
+                    },
+                    {
+                      "url": "https://mosaic.scdn.co/60/ab67616d00001e026ca5c90113b30c3c43ffb8f4ab67616d00001e02cb66bcc14c6f857c127d5969ab67616d00001e02dbb3dd82da45b7d7f31b1b42ab67616d00001e02eab40fc794b88b9d1e012578",
+                      "width": 60,
+                      "height": 60
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Faith x"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo",
+            "name": "The Eminem Show",
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2002
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:show:33uYGIyF58gEEIwT2uiDtA",
+            "name": "Stan by Eminem",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d6bea2c4bc1e44ee996d660c7",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f6bea2c4bc1e44ee996d660c7",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a6bea2c4bc1e44ee996d660c7",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "type": "PODCAST",
+            "publisher": {
+              "name": "Trey Henson"
+            },
+            "mediaType": "AUDIO"
+          }
+        }
+      ],
+      "featured": [
+        {
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DZ06evO4gTUOY",
+            "name": "This Is Eminem",
+            "description": "This is Eminem. The essential tracks, all in one playlist.",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Spotify"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1E4uduXaJcMi49",
+            "name": "Eminem Radio",
+            "description": "",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://seeded-session-images.scdn.co/v1/img/artist/7dGJo4pcD2V6oG8kP0tJRR/en",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Spotify"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DX86cOoaMyeqi",
+            "name": "LOBBYHOES",
+            "description": "Die Playlist zum Podcast von Rezo & Julien Bam.",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://i.scdn.co/image/ab67706f000000029aacbeb0942d18c4089ae3b2",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Spotify"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:playlist:37i9dQZF1DWWPcvnOpPG3x",
+            "name": "Run This Town",
+            "description": "Run to the world of R&B and hip-hop.",
+            "images": {
+              "items": [
+                {
+                  "sources": [
+                    {
+                      "url": "https://i.scdn.co/image/ab67706f000000023f22beb2471ef8949bb95d97",
+                      "width": null,
+                      "height": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "owner": {
+              "name": "Spotify"
+            }
+          }
+        }
+      ]
+    },
+    "tracks": {
+      "totalCount": 864,
+      "items": [
+        {
+          "data": {
+            "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
+            "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+            "name": "Without Me",
+            "albumOfTrack": {
+              "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo",
+              "name": "The Eminem Show",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2cWBwpqMsDJC1ZUwz813lo",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo?si=3Ni1M__8Rm2tXYQMZ3itQA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 290320
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:3yfqSUWxFvZELEM4PmlwIR",
+            "id": "3yfqSUWxFvZELEM4PmlwIR",
+            "name": "The Real Slim Shady",
+            "albumOfTrack": {
+              "uri": "spotify:album:6t7956yu5zYf5A829XRiHC",
+              "name": "The Marshall Mathers LP",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851dbb3dd82da45b7d7f31b1b42",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "6t7956yu5zYf5A829XRiHC",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC?si=sM-3SGtSQZeatQwW29RD8Q"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 284200
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:77Ft1RJngppZlq59B6uP0z",
+            "id": "77Ft1RJngppZlq59B6uP0z",
+            "name": "Lose Yourself",
+            "albumOfTrack": {
+              "uri": "spotify:album:6wdSf72duVewXTqhYU3Z87",
+              "name": "SHADYXV",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0231aafa752187cb0284307200",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485131aafa752187cb0284307200",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27331aafa752187cb0284307200",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "6wdSf72duVewXTqhYU3Z87",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87?si=AHv9XeoDTXmbMhtWLk-oWQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 320626
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5Z01UMMf7V1o0MzF86s6WJ",
+            "id": "5Z01UMMf7V1o0MzF86s6WJ",
+            "name": "Lose Yourself",
+            "albumOfTrack": {
+              "uri": "spotify:album:5qENHeCSlwWpEzb25peRmQ",
+              "name": "Curtain Call: The Hits (Deluxe Edition)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02eab40fc794b88b9d1e012578",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851eab40fc794b88b9d1e012578",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "5qENHeCSlwWpEzb25peRmQ",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ?si=oPsgxlQdTneB08TB7uwUvg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 326466
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:4xkOaSrkexMciUUogZKVTS",
+            "id": "4xkOaSrkexMciUUogZKVTS",
+            "name": "Till I Collapse",
+            "albumOfTrack": {
+              "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo",
+              "name": "The Eminem Show",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2cWBwpqMsDJC1ZUwz813lo",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo?si=3Ni1M__8Rm2tXYQMZ3itQA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:1Oa0bMld0A3u5OTYfMzp5h",
+                  "profile": {
+                    "name": "Nate Dogg"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 297786
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:561jH07mF1jHuk7KlaeF0s",
+            "id": "561jH07mF1jHuk7KlaeF0s",
+            "name": "Mockingbird",
+            "albumOfTrack": {
+              "uri": "spotify:album:1kTlYbs28MXw7hwO0NLYif",
+              "name": "Encore (Deluxe Version)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02726d48d93d02e1271774f023",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851726d48d93d02e1271774f023",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273726d48d93d02e1271774f023",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "1kTlYbs28MXw7hwO0NLYif",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif?si=ZswHxK_OTZmxEgT3Do9kMw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 250760
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:7FIWs0pqAYbP91WWM0vlTQ",
+            "id": "7FIWs0pqAYbP91WWM0vlTQ",
+            "name": "Godzilla (feat. Juice WRLD)",
+            "albumOfTrack": {
+              "uri": "spotify:album:4otkd9As6YaxxEkIjXPiZ6",
+              "name": "Music To Be Murdered By",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022f44aec83b20e40f3baef73c",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048512f44aec83b20e40f3baef73c",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "4otkd9As6YaxxEkIjXPiZ6",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6?si=gDnBM-0OTiODi6gKR1FoaQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                  "profile": {
+                    "name": "Juice WRLD"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 210800
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:6or1bKJiZ06IlK0vFvY75k",
+            "id": "6or1bKJiZ06IlK0vFvY75k",
+            "name": "Rap God",
+            "albumOfTrack": {
+              "uri": "spotify:album:6DN7GcZF1HywzrkGN6Eeqk",
+              "name": "The Marshall Mathers LP2 (Deluxe)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cb66bcc14c6f857c127d5969",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851cb66bcc14c6f857c127d5969",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cb66bcc14c6f857c127d5969",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "6DN7GcZF1HywzrkGN6Eeqk",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk?si=XUcLSSp9RZKetkMe91gpbg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 363521
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:4woTEX1wYOTGDqNXuavlRC",
+            "id": "4woTEX1wYOTGDqNXuavlRC",
+            "name": "Superman",
+            "albumOfTrack": {
+              "uri": "spotify:album:2cWBwpqMsDJC1ZUwz813lo",
+              "name": "The Eminem Show",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2cWBwpqMsDJC1ZUwz813lo",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo?si=3Ni1M__8Rm2tXYQMZ3itQA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:5jNmxPYz8QE5rYp4GDil8t",
+                  "profile": {
+                    "name": "Dina Rae"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 350320
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:7iXF2W9vKmDoGAhlHdpyIa",
+            "id": "7iXF2W9vKmDoGAhlHdpyIa",
+            "name": "Forgot About Dre",
+            "albumOfTrack": {
+              "uri": "spotify:album:7q2B4M5EiBkqrlsNW8lB7N",
+              "name": "2001",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e029b19c107109de740bad72df5",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048519b19c107109de740bad72df5",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "7q2B4M5EiBkqrlsNW8lB7N",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N?si=nDrEJt5VTlGyKQxgemWqEw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7",
+                  "profile": {
+                    "name": "Dr. Dre"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+                  "profile": {
+                    "name": "Eminem"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 222293
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        }
+      ]
+    },
+    "users": {
+      "totalCount": 10,
+      "items": [
+        {
+          "data": {
+            "uri": "spotify:user:eminem",
+            "id": "eminem",
+            "displayName": "Eminem",
+            "username": "eminem",
+            "image": {
+              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b8264f3e220576dd5e62218e751",
+              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee8564f3e220576dd5e62218e751"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:user:w7xs7vgexvrrrtoyr3bl1bde5",
+            "id": "w7xs7vgexvrrrtoyr3bl1bde5",
+            "displayName": "Retterview Fan",
+            "username": "w7xs7vgexvrrrtoyr3bl1bde5",
+            "image": {
+              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b8286e324f5cde6f5792a234c31",
+              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee8586e324f5cde6f5792a234c31"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:user:knpkotm9ro4cpf10m7qad0dds",
+            "id": "knpkotm9ro4cpf10m7qad0dds",
+            "displayName": "Eminem",
+            "username": "knpkotm9ro4cpf10m7qad0dds",
+            "image": {
+              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82bc719dd2c417d911217400d5",
+              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85bc719dd2c417d911217400d5"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:user:k8f7mvdsdh7xtniy559b1bttr",
+            "id": "k8f7mvdsdh7xtniy559b1bttr",
+            "displayName": "Eminem",
+            "username": "k8f7mvdsdh7xtniy559b1bttr",
+            "image": {
+              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82784c100f07ddad3815db97ce",
+              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85784c100f07ddad3815db97ce"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:user:9nhdhetfrtgxpolj04sa3kai5",
+            "id": "9nhdhetfrtgxpolj04sa3kai5",
+            "displayName": "#Eminemforever❤️(-_-)",
+            "username": "9nhdhetfrtgxpolj04sa3kai5",
+            "image": {
+              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82b8037f783c5c4fa0e9e95dc0",
+              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85b8037f783c5c4fa0e9e95dc0"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:user:10cgrkjgcx6b84vgtbf96oplx",
+            "id": "10cgrkjgcx6b84vgtbf96oplx",
+            "displayName": "Eminem pls folow me plllsss❤️❤️❤️",
+            "username": "10cgrkjgcx6b84vgtbf96oplx",
+            "image": {
+              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b820062289d091a3d1d62ba3ae0",
+              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee850062289d091a3d1d62ba3ae0"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:user:eminemma12",
+            "id": "eminemma12",
+            "displayName": "eminemma12",
+            "username": "eminemma12",
+            "image": {
+              "smallImageUrl": null,
+              "largeImageUrl": null
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:user:52zv2q7rd5sj6egofrv5stx0x",
+            "id": "52zv2q7rd5sj6egofrv5stx0x",
+            "displayName": "Eminem",
+            "username": "52zv2q7rd5sj6egofrv5stx0x",
+            "image": {
+              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b8253ba42a9cd007c4c2ef51925",
+              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee8553ba42a9cd007c4c2ef51925"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:user:31r7lge32sef7wm5fkt2zm5ipk3y",
+            "id": "31r7lge32sef7wm5fkt2zm5ipk3y",
+            "displayName": "EMINEM SUCKER",
+            "username": "31r7lge32sef7wm5fkt2zm5ipk3y",
+            "image": {
+              "smallImageUrl": "https://i.scdn.co/image/ab67757000003b821a73172957a87ca1022d6d8e",
+              "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee851a73172957a87ca1022d6d8e"
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:user:%23eminemgirl%23",
+            "id": "#eminemgirl#",
+            "displayName": "Jasmin",
+            "username": "#eminemgirl#",
+            "image": {
+              "smallImageUrl": null,
+              "largeImageUrl": null
+            }
+          }
+        }
+      ]
+    }
+  }

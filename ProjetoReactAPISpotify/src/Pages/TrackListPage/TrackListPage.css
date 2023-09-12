@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .container img {
+    max-width: 100%;
+  }
+  
+  /* Estilos para listas */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 1rem;
+  }
+
+img {
+    width: 25%;
+}
